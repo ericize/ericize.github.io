@@ -1,3 +1,3 @@
-## Welcome to My Pages
+#通往幸福
 
 这是Eric的小站，用于分享一些有意思的文字。
